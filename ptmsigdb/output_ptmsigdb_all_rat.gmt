@@ -1,43 +1,43 @@
-Ntrk2_ptmsigdb_rat	Ntrk2	Ncam1	Plcg1
-Tbk1_ptmsigdb_rat	Insr	Exoc8
-Src_ptmsigdb_rat	Cav1	Gabrg2	Adam17	Gja1	Prkcd	Bcar1	Src	Dnm2	Sptan1	Kcnq3	Dnm1	Pag1	Panx1	Pdpk1	Git1	Egfr	Syn1	Gria2	Cacna1c
-Rock1_ptmsigdb_rat	Ppp1r12a	Limk2	Irs1
-Ptk2b_ptmsigdb_rat	Pxn	Jak2	Ptk2b	Src
-Prkd1_ptmsigdb_rat	Cdh2	Trpv1	Prkd1
-Pkn1_ptmsigdb_rat	Pkn1	Ppp1r14a
-Prkg2_ptmsigdb_rat	Prkg2	Plcb3
-Prkcz_ptmsigdb_rat	Prkcz	Atp1a1	Irs1
-Prkcg_ptmsigdb_rat	Kcnc1	Gria4	Dgkg
-Prkcd_ptmsigdb_rat	Pa2g4	Tnni3	Plcb3	Ckm	Prkd1	Prkcd
-Prkcb_ptmsigdb_rat	Prkcb	Plcb3	Pebp1	Th	Kcnc1	Slc2a1
-Prkca_ptmsigdb_rat	Oprm1	Polb	Ceacam1	App	Trpc6	Gap43	Fshr	Sdc2	Irs1	Gabrg2	Gja1	Myf6	Kcnc1	Snap23	Cttn	Kcnj5	Cebpa	Add1	Cacna1b	Slc18a3	Vasp	Glp1r	Pebp1	Gpm6a	Atp1a1	Grm5	Gabrb1	Akt1	Camk2a	Tnni3	Fxyd1	Dnm1	Mat1a	Kcnj3	Nfe2l2	Grin2a	Kcnk10	Pitpna	Hmgcr	Prkca	Insr	Cnr1	Stxbp1	Marcks	Pld1	Grm1	Plcb3	Snap25	Pam	Add3	Adcy6	Grin1	Gria2
-Prkaca_ptmsigdb_rat	Pln	Camkk1	Creb1	Cacng2	Pdc	Dctn1	Pou1f1	Scn5a	Prkaa1	Gsk3a	Myf6	Nr4a1	Gria1	Chrna7	Kcna4	Bad	Syn2	Rims1	Grm2	Lipe	Ryr2	Ppp1r1a	Pde3b	Slc2a2	Gria4	Nf2	Slc9a3	Kcnn4	Nefm	Rela	Hspb6	Syt7	Pde4b	Grik2	Atp1a1	Aqp2	Syn3	Prl	Ppp1r9a	Stmn2	Acaca	Fxyd1	Cyp3a1	Rph3a	Npr3	Hmgcr	Pak1	Gsk3b	Scn2a	Slc38a3	Rsn	Ptpn5	Dnajc5	Fbp1	Grm3	Eef2k	Nkx2-1	Ppp1r12a	Thop1	Plcb3	Snap25	Tnp2	Syn1	Nefl	Kcnj16	Hist1h2ail	Th	Gata4	Cacna1c
-Pdpk1_ptmsigdb_rat	Sgk1	Rps6kb1	Prkcz
+Ntrk2_ptmsigdb_rat	Ncam1	Plcg1	Ntrk2
+Tbk1_ptmsigdb_rat	Exoc8	Insr
+Src_ptmsigdb_rat	Gja1	Prkcd	Src	Sptan1	Syn1	Kcnq3	Cav1	Pag1	Panx1	Git1	Bcar1	Gria2	Dnm2	Gabrg2	Pdpk1	Cacna1c	Adam17	Dnm1	Egfr
+Rock1_ptmsigdb_rat	Limk2	Irs1	Ppp1r12a
+Ptk2b_ptmsigdb_rat	Pxn	Ptk2b	Jak2	Src
+Prkd1_ptmsigdb_rat	Trpv1	Cdh2	Prkd1
+Pkn1_ptmsigdb_rat	Ppp1r14a	Pkn1
+Prkg2_ptmsigdb_rat	Plcb3	Prkg2
+Prkcz_ptmsigdb_rat	Prkcz	Irs1	Atp1a1
+Prkcg_ptmsigdb_rat	Kcnc1	Dgkg	Gria4
+Prkcd_ptmsigdb_rat	Prkcd	Ckm	Pa2g4	Plcb3	Prkd1	Tnni3
+Prkcb_ptmsigdb_rat	Pebp1	Slc2a1	Plcb3	Kcnc1	Prkcb	Th
+Prkca_ptmsigdb_rat	Ceacam1	Gja1	Pebp1	Adcy6	Polb	Cttn	Plcb3	Tnni3	Snap23	Trpc6	Fxyd1	Atp1a1	Camk2a	Gabrb1	Gap43	Pld1	Grin2a	Pitpna	Grm5	Kcnj5	Gria2	Cnr1	Grin1	Myf6	Grm1	Hmgcr	Gabrg2	Irs1	Add3	Stxbp1	Nfe2l2	Add1	Glp1r	Akt1	Fshr	Cebpa	Kcnk10	Pam	Prkca	Vasp	Gpm6a	Marcks	Oprm1	Dnm1	Mat1a	Sdc2	Insr	Kcnc1	Kcnj3	Snap25	App	Cacna1b	Slc18a3
+Prkaca_ptmsigdb_rat	Gria1	Chrna7	Scn5a	Prl	Grik2	Camkk1	Syt7	Thop1	Grm3	Cacng2	Lipe	Aqp2	Kcnj16	Plcb3	Bad	Scn2a	Ryr2	Tnp2	Grm2	Syn1	Syn2	Rph3a	Pde3b	Slc2a2	Atp1a1	Nr4a1	Fbp1	Rela	Prkaa1	Hspb6	Hist1h2ail	Eef2k	Ptpn5	Pou1f1	Slc9a3	Slc38a3	Nf2	Dctn1	Gata4	Creb1	Th	Pde4b	Rsn	Ppp1r9a	Myf6	Rims1	Hmgcr	Dnajc5	Gsk3a	Syn3	Nefl	Pak1	Gsk3b	Acaca	Nefm	Ppp1r12a	Ppp1r1a	Cacna1c	Gria4	Kcnn4	Pdc	Kcna4	Pln	Npr3	Cyp3a1	Fxyd1	Snap25	Nkx2-1	Stmn2
+Pdpk1_ptmsigdb_rat	Prkcz	Rps6kb1	Sgk1
 Pak3_ptmsigdb_rat	Pak3	Map2k1
-Pak1_ptmsigdb_rat	RGD1311558	Syn1	Map2k1	Nf2	Pak1	Prkd1
-Rps6ka1_ptmsigdb_rat	L1cam	Cebpb	Nfkbib	Nos1	Fos	Slc9a1	Creb1	Nfkbia
-Rps6kb1_ptmsigdb_rat	Bad	Gsk3b	Rps6
+Pak1_ptmsigdb_rat	Map2k1	Pak1	RGD1311558	Prkd1	Nf2	Syn1
+Rps6ka1_ptmsigdb_rat	L1cam	Nfkbia	Fos	Nfkbib	Nos1	Slc9a1	Creb1	Cebpb
+Rps6kb1_ptmsigdb_rat	Gsk3b	Rps6	Bad
 Musk_ptmsigdb_rat	Musk
 Mtor_ptmsigdb_rat	Eif4ebp1
-Map2k1_ptmsigdb_rat	Map2k1	Mapk1	Th	Mapk3	Bcl2
-Lyn_ptmsigdb_rat	Syk	Pdia3	Ptk2
-Mapk8_ptmsigdb_rat	Ctnnd2	Dlg4	Map2	Irs1	Nr3c1	Jun
-Insr_ptmsigdb_rat	Cav2	Insr	Sh2b2	Irs1
+Map2k1_ptmsigdb_rat	Map2k1	Mapk1	Bcl2	Mapk3	Th
+Lyn_ptmsigdb_rat	Ptk2	Syk	Pdia3
+Mapk8_ptmsigdb_rat	Nr3c1	Irs1	Dlg4	Jun	Map2	Ctnnd2
+Insr_ptmsigdb_rat	Sh2b2	Irs1	Cav2	Insr
 Erbb2_ptmsigdb_rat	Erbb2
-Gsk3b_ptmsigdb_rat	Ctnnb1	Nefh	Add2	Dcx	Pxn	Creb1	Eif2b5	Sik1
-Gsk3a_ptmsigdb_rat	Map2	Acly	Pxn	Creb1	Eif2b5
+Gsk3b_ptmsigdb_rat	Add2	Sik1	Pxn	Eif2b5	Ctnnb1	Nefh	Dcx	Creb1
+Gsk3a_ptmsigdb_rat	Pxn	Eif2b5	Acly	Map2	Creb1
 Fgfr1_ptmsigdb_rat	Fgfr1
-Mapk1_ptmsigdb_rat	Th	Ubtf	Trpv2	Gorasp1	Dusp6	Efnb3	Arc	Nr3c1	Syn1	Scnn1b	Fos	Sorbs3	Gja1	Mapk1	Pak1	Scnn1g	Gata4	Jund
-Mapk3_ptmsigdb_rat	Trpv2	Cald1	Gorasp1	Ddx47	Scnn1g	Gja1	Jun	Nsmf	Lipe	Efnb3	Scnn1b	Fos	Atp1a1	Bcl2	Map2k2	Tjp1	Stmn2	Dusp6	Hmg20a	Ubtf	Numa1	Map2	Syn1	Junb	Th	Jund
-Dyrk1a_ptmsigdb_rat	Wasl	Dnm1	Dyrk1a
-Csnk2a1_ptmsigdb_rat	Rps6kb1	Nol3	Gap43	Acaca	L1cam	Grin2b	Tubb3	Pam	Stx1a	Cpt1a	Calm1	Max	Psma3	Jun	Cdc37	Eif2b5	Sp1	Tagln
-Cdk5_ptmsigdb_rat	Synj1	Nes	Erbb3	Sept5	Map2	Dnm1	Grin2a	Trpv1	Syn1	Htt	Nos1	Mapk10	Wasf2	Dbn1	Th	Ppp1ca	Erbb2
-Cdk1_ptmsigdb_rat	Vcpip1	App	Cald1	Stmn2
+Mapk1_ptmsigdb_rat	Gja1	Fos	Mapk1	Ubtf	Efnb3	Nr3c1	Scnn1g	Arc	Pak1	Trpv2	Sorbs3	Dusp6	Gorasp1	Scnn1b	Jund	Gata4	Syn1	Th
+Mapk3_ptmsigdb_rat	Gja1	Junb	Map2k2	Lipe	Ddx47	Nsmf	Jund	Syn1	Fos	Atp1a1	Ubtf	Cald1	Scnn1g	Trpv2	Map2	Tjp1	Th	Bcl2	Efnb3	Scnn1b	Gorasp1	Hmg20a	Numa1	Dusp6	Jun	Stmn2
+Dyrk1a_ptmsigdb_rat	Dnm1	Dyrk1a	Wasl
+Csnk2a1_ptmsigdb_rat	L1cam	Cdc37	Tagln	Sp1	Stx1a	Grin2b	Psma3	Max	Acaca	Gap43	Rps6kb1	Calm1	Eif2b5	Jun	Cpt1a	Tubb3	Nol3	Pam
+Cdk5_ptmsigdb_rat	Mapk10	Trpv1	Erbb2	Dbn1	Erbb3	Dnm1	Synj1	Sept5	Grin2a	Nos1	Htt	Map2	Ppp1ca	Wasf2	Syn1	Nes	Th
+Cdk1_ptmsigdb_rat	App	Vcpip1	Stmn2	Cald1
 Camkk2_ptmsigdb_rat	Camk4	Prkaa1
-Camkk1_ptmsigdb_rat	Camk4	Prkaa1	Camkk1	Camk1
-Camk2d_ptmsigdb_rat	Ryr2	Pln	Cacnb1	Cacnb2
-Camk2b_ptmsigdb_rat	Camk2a	Lrrc7	Dlgap1	Dlgap3	Prkaa1	Ppp1r9b	Shank3	Gsk3a	Camk2b	Gsk3b	Dlgap2	Shank1	Syngap1
-Camk2a_ptmsigdb_rat	Oprm1	App	Psmc5	Cpeb1	Grik5	Ppp1r9b	Shank3	Gria1	Ryr2	Grin2b	Stmn1	Camk4	Neurod1	Syngap1	Numbl	Camk2a	Lrrc7	Kcnd3	Camk2b	Kalrn	Cacnb2	Dlg1	Accn2	Grm1	Dlgap1	Dlgap3	Syn1	Nos1	Ywhab	Th	Creb1	Shank1	Dlgap2
-Camk1_ptmsigdb_rat	Camkk1	Syn1	Nos1	Hmgcr	Creb1
-Prkaa1_ptmsigdb_rat	Acaca	Pfkfb2	Nos3	Prkab1	Prkaa1	Sqstm1
-Akt1_ptmsigdb_rat	Bad	Bcl2l1	Acin1	Raf1	Prkaa2	Nos3	Irs1	Prkaa1	Foxo1	Gsk3b	Foxo3	Rps6	Lmna
+Camkk1_ptmsigdb_rat	Camk1	Camk4	Prkaa1	Camkk1
+Camk2d_ptmsigdb_rat	Ryr2	Pln	Cacnb2	Cacnb1
+Camk2b_ptmsigdb_rat	Camk2b	Camk2a	Prkaa1	Shank3	Dlgap3	Gsk3a	Dlgap1	Shank1	Gsk3b	Dlgap2	Syngap1	Ppp1r9b	Lrrc7
+Camk2a_ptmsigdb_rat	Gria1	Shank1	Dlgap1	Psmc5	Nos1	Ryr2	Cpeb1	Syn1	Ppp1r9b	Dlg1	Camk2a	Dlgap3	Shank3	Stmn1	Syngap1	Camk4	Creb1	Th	Camk2b	Kalrn	Grm1	Grin2b	Cacnb2	Dlgap2	Neurod1	Numbl	Lrrc7	Grik5	Accn2	Oprm1	Kcnd3	Ywhab	App
+Camk1_ptmsigdb_rat	Camkk1	Hmgcr	Nos1	Creb1	Syn1
+Prkaa1_ptmsigdb_rat	Prkaa1	Nos3	Prkab1	Sqstm1	Pfkfb2	Acaca
+Akt1_ptmsigdb_rat	Raf1	Prkaa1	Nos3	Bcl2l1	Prkaa2	Irs1	Foxo1	Rps6	Gsk3b	Foxo3	Acin1	Bad	Lmna

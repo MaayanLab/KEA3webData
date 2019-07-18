@@ -1,73 +1,73 @@
 Kdr_ptmsigdb_mouse	Kdr	Flt4
-Map3k7_ptmsigdb_mouse	Ripk1	Sqstm1	Ksr1	Map3k7
-Syk_ptmsigdb_mouse	Map4k1	Ikzf1	Ceacam20	Prkcb	Sh3bp2	Swap70	Syk	Prkca
-Src_ptmsigdb_mouse	Oprm1	App	Cav1	Dab1	Ptpra	Cttn	Prkcd	Rock2	Ngef	Bcar1	Asap1	Raf1	Spry2	Grin2b	Src	Ptk2	Akt1	Ctnnd1	Kcnj3	Stat3	Trip6	Zdhhc3	Khdrbs3	Efnb1	Dnajb4	Plcg1	Cdh2	Stxbp1	Mtss1	Pvrl2	Ctnnb1	Ptk2b	Dag1	Egfr	Igf1r	Emd	Pxn	Prdx1
-Rps6ka3_ptmsigdb_mouse	Bad	Atf4	Rps6ka3	Traf6	Hist1h3a	Fos	H3f3b	Hmgn1
-Rock2_ptmsigdb_mouse	Ezr	Msn	Irs1	Myl12b	Irf4	Rdx
-Rock1_ptmsigdb_mouse	Pard3	Vim	Fhod1	Krt5
-Prkd1_ptmsigdb_mouse	Prkd1	Prkd2
+Map3k7_ptmsigdb_mouse	Ksr1	Ripk1	Sqstm1	Map3k7
+Syk_ptmsigdb_mouse	Sh3bp2	Prkca	Map4k1	Ikzf1	Syk	Swap70	Ceacam20	Prkcb
+Src_ptmsigdb_mouse	Prkcd	Ptk2b	Cdh2	Spry2	Src	Trip6	Emd	Ptk2	Cttn	Dnajb4	Dab1	Ctnnd1	Igf1r	Ptpra	Cav1	Rock2	Ctnnb1	Bcar1	Khdrbs3	Asap1	Grin2b	Pvrl2	Stat3	Pxn	Stxbp1	Dag1	Akt1	Ngef	Mtss1	Zdhhc3	Efnb1	Prdx1	Raf1	Plcg1	Oprm1	Egfr	Kcnj3	App
+Rps6ka3_ptmsigdb_mouse	Traf6	Fos	Rps6ka3	H3f3b	Hist1h3a	Hmgn1	Atf4	Bad
+Rock2_ptmsigdb_mouse	Msn	Irs1	Rdx	Irf4	Myl12b	Ezr
+Rock1_ptmsigdb_mouse	Krt5	Pard3	Fhod1	Vim
+Prkd1_ptmsigdb_mouse	Prkd2	Prkd1
 Plk4_ptmsigdb_mouse	Plk4
-Plk1_ptmsigdb_mouse	Tpt1	Celsr1	Cdk5rap2	Irs2
-Pkn1_ptmsigdb_mouse	Rph3a	Traf1	Cryab
+Plk1_ptmsigdb_mouse	Tpt1	Cdk5rap2	Irs2	Celsr1
+Pkn1_ptmsigdb_mouse	Cryab	Rph3a	Traf1
 Prkg2_ptmsigdb_mouse	Prkg2
-Prkg1_ptmsigdb_mouse	Bad	Gabrb1	Trpc6	Pde5a	Rhoa
-Prkcz_ptmsigdb_mouse	Ctnnb1	Crebbp	Numb	Pin1	Rela	Tbc1d4	Prkd1
-Prkcq_ptmsigdb_mouse	Irs1	Ncoa1	Spn	Cd4	Rdx	Ndrg2	Pdpk1
-Prkce_ptmsigdb_mouse	Nsf	Tnni3	Stat3	Gabrg2	Mybpc3	Prkd1	Nrip1
-Prkcd_ptmsigdb_mouse	Mapk8	Hspb1	Hnrnpk	Nlrc4	Prkcd	Hist1h2bn	Irs1	Tp53	Ywhaz	Pxn	Ncf4
+Prkg1_ptmsigdb_mouse	Rhoa	Pde5a	Gabrb1	Bad	Trpc6
+Prkcz_ptmsigdb_mouse	Pin1	Crebbp	Rela	Ctnnb1	Tbc1d4	Prkd1	Numb
+Prkcq_ptmsigdb_mouse	Pdpk1	Spn	Irs1	Rdx	Cd4	Ncoa1	Ndrg2
+Prkce_ptmsigdb_mouse	Mybpc3	Gabrg2	Nsf	Stat3	Nrip1	Prkd1	Tnni3
+Prkcd_ptmsigdb_mouse	Ywhaz	Prkcd	Hspb1	Irs1	Tp53	Nlrc4	Pxn	Hist1h2bn	Hnrnpk	Mapk8	Ncf4
 PKCB_ptmsigdb_mouse	Tnni3
-Prkcb_ptmsigdb_mouse	Akt1	Tnni3	Prkcb	Btk	Prkca
-Prkca_ptmsigdb_mouse	Hspb1	Gabrb3	Fscn1	Vim	Jph2	Crem	Prkcb	Ppp1r1a	Crebbp	Cd34	Sik1	Akt1	Prkd1	Nr2c1	Tnni3	Nfe2l2	Esr1	Dlx3	Pitpnb	Grm7	Prkca	Lmna	Aqp4	Tmpo	Snap25	Rho	Slc9a3r1	Pea15	Gria2
-Prkaca_ptmsigdb_mouse	Kcnk18	Hspb1	Pln	Stk11	Sptbn1	Cacng2	Vim	Slc23a2	Lasp1	Gria1	Bad	Crem	Pip5k1b	Arpp21	Lipe	Mlph	Raf1	Ryr2	Gjd2	Nfe2	Aurkc	Dpysl2	Cdc25b	Ppp1r1a	Snapin	Fos	Ptrf	Nefm	Rela	Dcx	Hnf4a	Rasgrf1	Ppp1r1b	Opn4	Prkaca	Kcnd2	Mos	Kcnj11	Tnni3	Pkd1	Phlpp2	Plin1	Wee2	Rara	Nlrp3	Ptpn5	Map4k1	Marcks	Plcl1	Tead1	Snap25	Ppp2r5d	Chchd3	Slc9a3r1	Srgap3	Mybpc3	Mip	Cacna1c
+Prkcb_ptmsigdb_mouse	Prkcb	Prkca	Btk	Tnni3	Akt1
+Prkca_ptmsigdb_mouse	Pea15	Tnni3	Lmna	Esr1	Hspb1	Pitpnb	Prkcb	Gria2	Slc9a3r1	Sik1	Crebbp	Gabrb3	Grm7	Crem	Dlx3	Prkd1	Nfe2l2	Cd34	Akt1	Ppp1r1a	Fscn1	Jph2	Nr2c1	Vim	Prkca	Tmpo	Rho	Aqp4	Snap25
+Prkaca_ptmsigdb_mouse	Gria1	Lasp1	Kcnj11	Mlph	Srgap3	Stk11	Ptrf	Cacng2	Aurkc	Lipe	Kcnk18	Bad	Phlpp2	Ryr2	Tnni3	Nlrp3	Ppp1r1b	Arpp21	Kcnd2	Fos	Hspb1	Rasgrf1	Pip5k1b	Dpysl2	Sptbn1	Rela	Snapin	Ptpn5	Ppp2r5d	Gjd2	Plin1	Chchd3	Mip	Mybpc3	Slc9a3r1	Pkd1	Nefm	Crem	Dcx	Rara	Ppp1r1a	Mos	Cacna1c	Prkaca	Raf1	Plcl1	Vim	Opn4	Map4k1	Marcks	Wee2	Pln	Cdc25b	Tead1	Nfe2	Hnf4a	Slc23a2	Snap25
 Pim3_ptmsigdb_mouse	Bad
-Pdpk1_ptmsigdb_mouse	Prkaca	Rps6ka3	Pdpk1
-Pdgfrb_ptmsigdb_mouse	Pdgfrb	Pik3r1	Prkcd
-Rps6ka1_ptmsigdb_mouse	Bad	Stk11	Cebpb	Tnni3	Krt17	Creb1	H3f3b	Hmgn1
-Rps6kb1_ptmsigdb_mouse	Crem	Mdm2	Stk11	Esr1	Cct2	Cdkn2a	Gsk3b	Rps6	Dnajc2
-Mapk14_ptmsigdb_mouse	Cryab	Hspa5	Mapk14	Stat4	Pgrmc1	Iws1	Myf6	Prdx6	Rarg	Clic1	Stat1	Hnrnph2	Ripor1	Ulk1	Gata3	Ass1	Tcf3	Aqp2	Akt1	Stat3	Hnrnph1	Nfatc4	Foxo1	Krt8	1700021F05Rik	Atf2	Ranbp2	Ahnak	Tp53	Nfatc2	Xbp1	H3f3b	Mitf
-Stk38_ptmsigdb_mouse	Yap1	Aak1	Rab3ip	Panx2
-Mtor_ptmsigdb_mouse	Ptpn13	Larp1	Irs1	St5	Dpysl3	Irs2	Jun	Mtor	Dlg5	Phldb1	Mcl1	Ehmt2	Nfrkb	Phldb2	Foxk1	Eif4ebp1	Afap1	Cux1	Map1b	Grb10	Flna	Atxn2l	2810004N23Rik	Eif4g1	Akt1	Akap11	Tbc1d10b	Stat3	Nup188	Arhgap29	Nfatc4	Smcr8	Ddx18	Szt2	Topors	Numa1	Rc3h1	Taf3	Nes	Stk4	Cdc42bpb	Ahnak	Polr2a	Patl1	Fasn	Wipi2	Eif4ebp2	Chfr	Foxk2
+Pdpk1_ptmsigdb_mouse	Pdpk1	Rps6ka3	Prkaca
+Pdgfrb_ptmsigdb_mouse	Pik3r1	Prkcd	Pdgfrb
+Rps6ka1_ptmsigdb_mouse	Stk11	H3f3b	Hmgn1	Bad	Tnni3	Creb1	Krt17	Cebpb
+Rps6kb1_ptmsigdb_mouse	Cct2	Dnajc2	Cdkn2a	Stk11	Rps6	Gsk3b	Crem	Mdm2	Esr1
+Mapk14_ptmsigdb_mouse	Mitf	Pgrmc1	Clic1	H3f3b	Prdx6	Hnrnph2	Aqp2	Mapk14	Krt8	Iws1	Cryab	Rarg	Tcf3	Ripor1	Hnrnph1	1700021F05Rik	Ahnak	Myf6	Nfatc4	Xbp1	Foxo1	Stat3	Tp53	Stat1	Ass1	Ranbp2	Akt1	Nfatc2	Gata3	Stat4	Hspa5	Atf2	Ulk1
+Stk38_ptmsigdb_mouse	Panx2	Yap1	Aak1	Rab3ip
+Mtor_ptmsigdb_mouse	Nup188	2810004N23Rik	Arhgap29	Polr2a	Foxk1	Ehmt2	Eif4g1	Chfr	Foxk2	Dlg5	Cdc42bpb	Grb10	Ddx18	Flna	St5	Smcr8	Phldb2	Irs2	Akap11	Larp1	Atxn2l	Cux1	Map1b	Mtor	Eif4ebp2	Ahnak	Nfatc4	Taf3	Irs1	Ptpn13	Stat3	Topors	Rc3h1	Akt1	Nes	Afap1	Nfrkb	Patl1	Phldb1	Szt2	Numa1	Wipi2	Jun	Stk4	Fasn	Tbc1d10b	Dpysl3	Eif4ebp1	Mcl1
 Stk4_ptmsigdb_mouse	Stk4	Nfkbia
-Rps6ka5_ptmsigdb_mouse	Bad	Stk11	Stat3	Hist1h3a	Rela	Pla2g4a	H3f3b	Hmgn1
-Met_ptmsigdb_mouse	Met	Gab1
-Map2k1_ptmsigdb_mouse	Mapk3	Myod1	Mapk1
-Mapkapk2_ptmsigdb_mouse	Hspb1	Ripk1	Hnrnpa0	Zfp36	Ube2j1
-Lyn_ptmsigdb_mouse	Epor	Lyn	Raf1	Trpv4	Dok2	Ptpn6	Fcer1g	Syk	Pag1	Cttn	Prkcd	Ppp2ca
-Lck_ptmsigdb_mouse	Pecam1	Inpp5d	Itk	Lck	Mapk1	Ctla4	Lime1
-Mapk10_ptmsigdb_mouse	Jun	Mcl1	Mapk8ip3	Kif5c
-Mapk9_ptmsigdb_mouse	Rxra	Ets2	H3f3b	H2afx
-Mapk8_ptmsigdb_mouse	Bad	Dcx	Stmn2	Atf2	Stat1	Stat3	Bcl2l11	Sirt1	Irs1	H2afx	Rxra	Jdp2	Elk3	Jun	H3f3b
-Jak2_ptmsigdb_mouse	Ptpn11	Stat3	Cdkn1b	Jak2	Stat5a	Atoh1
+Rps6ka5_ptmsigdb_mouse	Stk11	Rela	Stat3	H3f3b	Hist1h3a	Hmgn1	Bad	Pla2g4a
+Met_ptmsigdb_mouse	Gab1	Met
+Map2k1_ptmsigdb_mouse	Myod1	Mapk3	Mapk1
+Mapkapk2_ptmsigdb_mouse	Ripk1	Hspb1	Ube2j1	Zfp36	Hnrnpa0
+Lyn_ptmsigdb_mouse	Raf1	Prkcd	Fcer1g	Epor	Pag1	Ppp2ca	Lyn	Dok2	Ptpn6	Syk	Cttn	Trpv4
+Lck_ptmsigdb_mouse	Pecam1	Itk	Mapk1	Lime1	Lck	Inpp5d	Ctla4
+Mapk10_ptmsigdb_mouse	Kif5c	Mapk8ip3	Mcl1	Jun
+Mapk9_ptmsigdb_mouse	H2afx	Rxra	H3f3b	Ets2
+Mapk8_ptmsigdb_mouse	H2afx	Sirt1	Bcl2l11	Jdp2	Irs1	Elk3	Dcx	Atf2	Stat3	Rxra	H3f3b	Stat1	Bad	Jun	Stmn2
+Jak2_ptmsigdb_mouse	Stat5a	Stat3	Ptpn11	Atoh1	Jak2	Cdkn1b
 Irak1_ptmsigdb_mouse	Irak1bp1
-Ikbkb_ptmsigdb_mouse	Ikbkb	Xbp1	Rela	Snap23	Map3k8
-Chuk_ptmsigdb_mouse	Irs1	Rorc	H3f3b	Nfkbia
+Ikbkb_ptmsigdb_mouse	Ikbkb	Rela	Xbp1	Map3k8	Snap23
+Chuk_ptmsigdb_mouse	Nfkbia	Rorc	H3f3b	Irs1
 Igf1r_ptmsigdb_mouse	Igf1r	Crk
-Gsk3b_ptmsigdb_mouse	Gphn	Pten	Dpysl3	Jun	Pelp1	Cblb	Lpcat1	Fto	Dpysl2	Cry2	Map1b	Axin1	Neurog2	Myb	Dzip1	Rcan1	Kcnd2	Nfe2l2	Mdm2	Cebpb	Ctnnb1	Ccnd1	Vhl	Myc	Carm1
-Gsk3a_ptmsigdb_mouse	Pxn	Neurog2	Cblb
-Adrbk1_ptmsigdb_mouse	Per2	Adrb2	Oprk1	Irs1
-Fyn_ptmsigdb_mouse	Cd3e	Ctnnb1	Nyap2	Grin2b	Nfe2l2	Gabrg2	Nox4	Israa	Cdk5	Ctla4	Dlg2	Was	Tom1l1	Prkcd
-Fer_ptmsigdb_mouse	Pecam1	Fer	Ctnnb1
-FAK_ptmsigdb_mouse	Wasl	Cttn	Bcar1	Ptk2
-Mapk7_ptmsigdb_mouse	Nfatc4	Mapk7
-Mapk1_ptmsigdb_mouse	Rbm9	Hist1h3a	Rai1	Gata6	Mybbp1a	Mapk1	Zc3hc1	Esr2	Kiaa0284	Sned1	Ncor2	Cep170	Hnrnph2	Cdc42ep1	Ahctf1	Mast2	Pgr	Stk10	Rell1	Ndel1	Arhgef17	Dync1i2	Nup153	Akap12	Atf2	Cebpb	Tnks1bp1	Mgea5	Egfr	Dcp1a	Klf4	Erf	Shc1	Supt5h	Gata4	Rtn4	Tpr	Crybg1	Irs2	Jun	Ssbp3	Ksr1	Nr5a1	Stat1	Sorbs3	Ets2	Gtse1	Bcl2	Rcan1	Elk1	Dlgap5	Aebp1	Prkca	Lmna	Cdc42ep2	Atg2b	Gli2	Map1a	Nid1	Larp1	Bcl2l11	Mapkapk2	Gja1	Dock1	1810008A18Rik	Tpx2	Rai14	Gigyf2	Snx2	Wiz	Ptk2	Dnajc30	Myo9b	Mast4	Tgfb1i1	Smad4	Ripk3	Kcnd2	Hnrnph1	Rexo1	Foxo1	Tanc1	Rps6ka1	Tnfrsf1a	Rbpms	Prrc2a	Mast1	Ahnak2	Etv3	Khdrbs1	Noxa1	H3f3b	Irs1	Dennd4c	Ppp1r9b	Map2k1	Tfpi	Ubap2l	Safb	Dlg5	Phldb1	Ripor1	Dync1li1	Stmn1	Safb2	Pdxdc1	Rps3	Fam195b	Phf2	Map1b	Trp53bp2	Junb	Nfatc4	Ubap2	Eif4enif1	Foxo3	Stxbp1	Raph1	Ahnak	Tp53	Supv3l1	Gata1	Tbc1d23	Pla2g4a	Ugdh	Xrn2
-Mapk3_ptmsigdb_mouse	Irf3	Ranbp3	Star	Bcl2l11	Irs1	Gata6	Adam17	Mapkapk2	Map2k1	Jun	Esr2	Rps6ka3	Nr5a1	Stat1	Ppp1r1a	Stmn1	Ptk2	Tal1	Ets2	Bcl2	Noxa1	Pgr	Akt1	Elk1	Rcan1	Kcnd2	Nfatc4	Ndel1	Aebp1	Foxo1	Prkca	Foxo3	Stxbp1	Rps6ka1	Atf2	Cebpb	Tp53	Gata1	Junb	Shc1	Pxn	Pla2g4a	H3f3b
-Egfr_ptmsigdb_mouse	Eps15	Gab1	Egfr	Znrf1	Pld2
+Gsk3b_ptmsigdb_mouse	Rcan1	Fto	Carm1	Myb	Pelp1	Kcnd2	Vhl	Dpysl2	Ctnnb1	Axin1	Map1b	Mdm2	Lpcat1	Pten	Ccnd1	Cblb	Cry2	Myc	Nfe2l2	Neurog2	Gphn	Jun	Dpysl3	Dzip1	Cebpb
+Gsk3a_ptmsigdb_mouse	Pxn	Cblb	Neurog2
+Adrbk1_ptmsigdb_mouse	Per2	Oprk1	Irs1	Adrb2
+Fyn_ptmsigdb_mouse	Tom1l1	Dlg2	Prkcd	Nox4	Was	Grin2b	Gabrg2	Israa	Nyap2	Cdk5	Ctnnb1	Nfe2l2	Ctla4	Cd3e
+Fer_ptmsigdb_mouse	Pecam1	Ctnnb1	Fer
+FAK_ptmsigdb_mouse	Bcar1	Ptk2	Wasl	Cttn
+Mapk7_ptmsigdb_mouse	Mapk7	Nfatc4
+Mapk1_ptmsigdb_mouse	Cep170	Crybg1	Safb	Gli2	Tnks1bp1	Tnfrsf1a	Hist1h3a	Ppp1r9b	Etv3	Elk1	Dnajc30	Stmn1	Trp53bp2	Khdrbs1	Foxo3	Map1b	Rtn4	Dennd4c	Zc3hc1	Nfatc4	Stat1	Stxbp1	Pla2g4a	Arhgef17	Ncor2	Tpr	Mast2	Atf2	Noxa1	Map1a	Rcan1	Gja1	Junb	Prrc2a	Pdxdc1	Dync1i2	Rps3	Ksr1	Gata6	Dlg5	Stk10	Ugdh	Dlgap5	Wiz	Map2k1	Ahnak	Ssbp3	Ndel1	Klf4	Irs1	Fam195b	Tp53	Rps6ka1	Phldb1	Ubap2	Prkca	Dock1	Sorbs3	Supv3l1	Rell1	Ahctf1	Ets2	Dync1li1	Erf	H3f3b	Hnrnph2	Xrn2	Cdc42ep2	Smad4	Phf2	Lmna	Rbpms	Eif4enif1	Myo9b	Irs2	Rai1	Nid1	Ripor1	Kiaa0284	Tbc1d23	Pgr	Ripk3	Mast1	Foxo1	Supt5h	Gigyf2	Akap12	Mapk1	Nr5a1	Tfpi	Egfr	Tgfb1i1	Jun	Cebpb	Snx2	Sned1	Safb2	Rbm9	Mast4	Raph1	Ptk2	Gtse1	Kcnd2	Dcp1a	Rexo1	Bcl2l11	Larp1	Tanc1	Ahnak2	Atg2b	Mybbp1a	Gata4	Mgea5	Hnrnph1	Bcl2	Rai14	Aebp1	1810008A18Rik	Gata1	Mapkapk2	Tpx2	Cdc42ep1	Esr2	Shc1	Ubap2l	Nup153
+Mapk3_ptmsigdb_mouse	Rcan1	Junb	Ranbp3	H3f3b	Ptk2	Gata6	Star	Kcnd2	Tal1	Bcl2l11	Elk1	Rps6ka3	Stmn1	Foxo3	Map2k1	Pgr	Nfatc4	Bcl2	Ndel1	Irs1	Foxo1	Tp53	Pxn	Aebp1	Stat1	Gata1	Mapkapk2	Stxbp1	Pla2g4a	Akt1	Ppp1r1a	Rps6ka1	Adam17	Prkca	Esr2	Atf2	Noxa1	Nr5a1	Shc1	Jun	Irf3	Cebpb	Ets2
+Egfr_ptmsigdb_mouse	Znrf1	Pld2	Gab1	Egfr	Eps15
 Stk17b_ptmsigdb_mouse	Stk17b
 Csf1r_ptmsigdb_mouse	Csf1r
-Csnk2a1_ptmsigdb_mouse	Mef2c	Pax3	Pten	Klf1	Ikzf1	Hdac2	Arntl	Cux1	Vamp4	Bid	Myb	Odc1	Sirt1	Casp9	Ptprc	Nfkbia	Fmr1	Ppm1a	Hsf1	Spi1	Tp53	Mybpc3	Cbx5
-Csnk1e_ptmsigdb_mouse	Ppp1r1b	Per1	Lpin1
+Csnk2a1_ptmsigdb_mouse	Bid	Ptprc	Myb	Cbx5	Nfkbia	Odc1	Ikzf1	Ppm1a	Hsf1	Casp9	Cux1	Pten	Mybpc3	Fmr1	Vamp4	Pax3	Spi1	Tp53	Arntl	Hdac2	Sirt1	Klf1	Mef2c
+Csnk1e_ptmsigdb_mouse	Ppp1r1b	Lpin1	Per1
 Csnk1d_ptmsigdb_mouse	Per2	Dnmt1	Vangl2
-Cdk6_ptmsigdb_mouse	Rb1	Cebpa
-Cdk5_ptmsigdb_mouse	Dab1	Map2k1	Ppp1r9b	Rhoq	Apex1	Gja1	Esyt1	Map3k1	Coro1a	Ezr	Grin2b	Prdx2	Cdkn1b	Ppp1r1a	Cask	Stmn1	Cdk16	Dcx	Ptk2	Stk24	Bcl2	Axin1	Rasgrf1	Pik3c3	Ctnnd2	Ppp1r1b	Ntrk2	Stat3	Pak1	Rab3il1	Camkv	Stub1	Nes	Aatk	Cacna1c
-Cdk4_ptmsigdb_mouse	Rb1	Cebpa	Ubtf	Irs2
-Cdk2_ptmsigdb_mouse	Mdm2	Mybl2	Cebpb	Myod1	Stmn1	Mcm3ap	Ubtf	Cdk7	E2f5	Sox2
-Cdk1_ptmsigdb_mouse	Des	Vim	Ppp1ca	Crem	Cebpa	Src	Ppp1r1a	Cdk1	Mcm4	Sox2	Mcm3	Abl1	Pak1	Foxo1	Cdk7	Lmna	Krt5	Myod1	Polr2a
-Camk2a_ptmsigdb_mouse	Pln	Vim	Homer2	Adcy3	Gria1	Ptpra	Crem	Gabbr1	Ryr2	Stmn1	Il6st	Camk2a	Mcu	Dnm1l	Kif17	Homer1	Nefl	Pea15	Mybpc3	Cacna1c
-Btk_ptmsigdb_mouse	Btk	Stat5a	Ikzf1
-Aurkb_ptmsigdb_mouse	Krt5	Vim	Hist1h3a	Sgol2	H3f3b
-Atm_ptmsigdb_mouse	Smc1a	Mcm3	Stk11	Atm	H2afx	Tp53	Syn1	Creb1
-Prkaa2_ptmsigdb_mouse	Acaca	Tp53	Gfpt1	Tbc1d4	Ikbkb
-Prkaa1_ptmsigdb_mouse	Pikfyve	Cycs	Pde4b	Pdlim5	Rb1	Slc12a1	Mff	Hist1h2bn	Gfpt1	Cnbp	Pak2	Pnpla2	Nudt14
-Akt2_ptmsigdb_mouse	Pitx2	Stxbp4	Myo5a	Gab2	Sik2	Ppargc1a
-Akt1_ptmsigdb_mouse	Bach2	Tbc1d1	Map3k12	Acly	Rps6	Bad	Raf1	Cdc25b	Pde3b	Sik2	Ndrg2	Grb10	Akt1	Esrrg	Tsc2	Pak1	Foxo1	Gsk3b	Foxo3	Map2k4	Pikfyve	Mdm2	Ctnnb1	Gata1	Tbc1d4	H3f3b
-Abl1_ptmsigdb_mouse	Apbb1	Cdv3	Dok1	Raph1	Abl1	Zap70	Enah	Cdk5	Prkcd
+Cdk6_ptmsigdb_mouse	Cebpa	Rb1
+Cdk5_ptmsigdb_mouse	Aatk	Gja1	Cask	Ptk2	Dab1	Ppp1r9b	Ppp1r1b	Rasgrf1	Cdkn1b	Pik3c3	Stmn1	Axin1	Apex1	Ctnnd2	Rhoq	Map2k1	Bcl2	Coro1a	Grin2b	Stat3	Pak1	Esyt1	Camkv	Dcx	Nes	Ppp1r1a	Stk24	Cacna1c	Stub1	Ezr	Ntrk2	Cdk16	Rab3il1	Prdx2	Map3k1
+Cdk4_ptmsigdb_mouse	Cebpa	Irs2	Ubtf	Rb1
+Cdk2_ptmsigdb_mouse	Ubtf	Cdk7	Mybl2	Mcm3ap	Stmn1	Sox2	Myod1	E2f5	Mdm2	Cebpb
+Cdk1_ptmsigdb_mouse	Polr2a	Cdk7	Mcm4	Src	Myod1	Lmna	Sox2	Abl1	Mcm3	Foxo1	Des	Pak1	Crem	Ppp1ca	Ppp1r1a	Cebpa	Vim	Cdk1	Krt5
+Camk2a_ptmsigdb_mouse	Gria1	Mcu	Pea15	Il6st	Kif17	Ryr2	Homer2	Ptpra	Camk2a	Stmn1	Mybpc3	Dnm1l	Homer1	Nefl	Gabbr1	Crem	Cacna1c	Vim	Adcy3	Pln
+Btk_ptmsigdb_mouse	Ikzf1	Btk	Stat5a
+Aurkb_ptmsigdb_mouse	Vim	H3f3b	Hist1h3a	Sgol2	Krt5
+Atm_ptmsigdb_mouse	H2afx	Mcm3	Stk11	Tp53	Smc1a	Creb1	Syn1	Atm
+Prkaa2_ptmsigdb_mouse	Ikbkb	Tp53	Acaca	Tbc1d4	Gfpt1
+Prkaa1_ptmsigdb_mouse	Pde4b	Cycs	Mff	Pak2	Rb1	Pnpla2	Nudt14	Cnbp	Hist1h2bn	Pikfyve	Gfpt1	Pdlim5	Slc12a1
+Akt2_ptmsigdb_mouse	Myo5a	Gab2	Ppargc1a	Pitx2	Stxbp4	Sik2
+Akt1_ptmsigdb_mouse	Tbc1d1	Tsc2	Bach2	Tbc1d4	H3f3b	Bad	Sik2	Grb10	Pde3b	Ctnnb1	Foxo3	Mdm2	Esrrg	Foxo1	Rps6	Pak1	Gsk3b	Map3k12	Gata1	Akt1	Raf1	Cdc25b	Acly	Pikfyve	Map2k4	Ndrg2
+Abl1_ptmsigdb_mouse	Prkcd	Apbb1	Zap70	Cdk5	Raph1	Dok1	Enah	Cdv3	Abl1
